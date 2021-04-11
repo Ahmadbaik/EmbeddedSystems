@@ -1,1 +1,1 @@
-# EmbeddedSystems
+# Embedded System Diploma
